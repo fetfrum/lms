@@ -1,6 +1,10 @@
 # GoIT Learninig management system
 
 Небольшой гайд по взаимодействию между участниками проекта в GitHub и Slack.
+## Обсуждение
+
+* [Issues](https://github.com/go-lms/lms/issues)
+* [Slack](https://lms-project-students.slack.com/messages)
 
 ## Рекомендации общения в Slack
 
@@ -26,7 +30,7 @@
 Если вы хотите предложить изменения в данный документ, то следуйте, пожалуйста этой инструкции:
 
 1. Делаем форк текущего репозитория:
-<img src="images/04.png" alt="Форк">
+<img src="images/04.png" alt="Создание форка">
 
 
 2. Клонируем форкнутый репозиторий на локальный компьютер:
@@ -63,3 +67,4 @@
   ~~~
 
 8. Переходим на Github и создаём Pull request
+<img src="images/05.png" alt="Создание пул-реквеста">
